@@ -1,0 +1,21 @@
+.myheading {
+}
+
+.navbar {
+  background-color: #262623;
+}
+
+.telefonlar .col {
+  height: 624px;
+}
+
+.ip-15.pt-53 {
+}
+
+.ip-15 {
+  background-color: #f5f5f6;
+  background-image: url("../../assets/img/ip15.webp");
+  background-size: cover;
+  background-position: center;
+}
+
